@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "White Ferrari",
+  "base_artist": "Frank Ocean",
+  "createdAt": "2026-02-15T08:09:52.132825Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "White Ferrari",
+      "artist": "Frank Ocean",
+      "has_synced": true,
+      "path": "select/01_White_Ferrari_Frank_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "White Ferrari (Feat. James Blake)",
+      "artist": "Frank Ocean",
+      "has_synced": true,
+      "path": "select/02_White_Ferrari_(Feat._James_Blake)_Frank_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "White Ferrari",
+      "artist": "Frank Ocean",
+      "has_synced": true,
+      "path": "select/03_White_Ferrari_Frank_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "White Ferrari",
+      "artist": "Frank Ocean",
+      "has_synced": true,
+      "path": "select/04_White_Ferrari_Frank_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "White Ferrari",
+      "artist": "Frank Ocean",
+      "has_synced": true,
+      "path": "select/05_White_Ferrari_Frank_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Frank Ocean - White Ferrari",
+      "artist": "Blonded",
+      "has_synced": true,
+      "path": "select/06_Frank_Ocean_-_White_Ferrari_Blonded.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "White Ferrari",
+      "artist": "Frank Ocean",
+      "has_synced": true,
+      "path": "select/07_White_Ferrari_Frank_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "White Ferrari | HiphopKit.com",
+      "artist": "Frank Ocean",
+      "has_synced": true,
+      "path": "select/08_White_Ferrari___HiphopKit.com_Frank_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "White Ferrari (live at Paramount Theatre)",
+      "artist": "Penny and Sparrow",
+      "has_synced": true,
+      "path": "select/09_White_Ferrari_(live_at_Paramount_Theatre)_Penny_and_Sparrow.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "White Ferrari",
+      "artist": "Penny and Sparrow",
+      "has_synced": true,
+      "path": "select/10_White_Ferrari_Penny_and_Sparrow.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "White Ferrari (live at Paramount Theatre)",
+      "artist": "Penny",
+      "has_synced": true,
+      "path": "select/11_White_Ferrari_(live_at_Paramount_Theatre)_Penny.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "White Ferrari",
+      "artist": "Penny",
+      "has_synced": true,
+      "path": "select/12_White_Ferrari_Penny.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "White Ferrari X I Know The End",
+      "artist": "Erin LeCount",
+      "has_synced": true,
+      "path": "select/13_White_Ferrari_X_I_Know_The_End_Erin_LeCount.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "White Ferrari",
+      "artist": "Isak Danielson",
+      "has_synced": true,
+      "path": "select/14_White_Ferrari_Isak_Danielson.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "White Ferrari",
+      "artist": "Frank Ocean",
+      "has_synced": false,
+      "path": "select/pl_01_White_Ferrari_Frank_Ocean.txt"
+    }
+  ]
+}
